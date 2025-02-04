@@ -76,7 +76,7 @@ export const projects = [
     id: 1,
     title: "Indentidade visual - Pastelaria Hoffman's",
     des: "Indentidade visual para a pastelaria, com plaeta de cores",
-    img: "/p1.svg",
+    img: "/p1.jpeg",
     iconLists: ["/ps.png"],
     link: "https://www.instagram.com/hoffmanspastel/",
     sourceCode: "https://www.instagram.com/hoffmanspastel/",
