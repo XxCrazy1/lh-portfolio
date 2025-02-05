@@ -2,13 +2,13 @@ import type { Metadata } from "next";
 
 export const links = {
   sourceCode: "https://github.com/sanidhyy/next-portfolio",
-  ownerName: "Sanidhya",
-  ownerEmail: "sanidhya.verma12345@gmail.com",
+  ownerName: "Leandro",
+  ownerEmail: "https://api.whatsapp.com/send?phone=5521996972349&text=Oi%2C%20Leandro!%20",
 } as const;
 
 export const siteConfig: Metadata = {
   title: `${links.ownerName}'s Portfolio`,
-  description: "Modern & Minimalist Next.js Portfolio.",
+  description: "Moderno & Minimalista Next.js Portfolio.",
   keywords: [
     "reactjs",
     "nextjs",
@@ -51,6 +51,6 @@ export const siteConfig: Metadata = {
   ] as Array<string>,
   authors: {
     name: links.ownerName,
-    url: "https://github.com/sanidhyy",
+    url: "https://github.com/XxCrazy1",
   },
 } as const;
