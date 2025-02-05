@@ -10,14 +10,14 @@ export const Approach = () => {
   return (
     <section className="w-full py-20">
       <h1 className="heading">
-        My <span className="text-purple">approach</span>
+        Minha <span className="text-purple">Abordagem</span>
       </h1>
 
       <div className="my-20 flex flex-col items-center justify-center gap-4 lg:flex-row">
         <Card
-          title="Planning & Strategy"
-          icon={<MagicButton title="Phase 1" asChild />}
-          description="We'll collaborate to map out your website's goals, target audience, and key functionalities. We'll discuss things like site structure, navigation, and content requirements."
+          title="Planejamento e Estratégia"
+          icon={<MagicButton title="Fase 1" asChild />}
+          description="Colaboraremos para mapear os objetivos, o público-alvo e as principais funcionalidades do seu site, aplicativo ou jogo. Discutiremos elementos como design visual, estrutura do site, navegação, configurações do aplicativo e requisitos de conteúdo."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -26,9 +26,9 @@ export const Approach = () => {
         </Card>
 
         <Card
-          title="Deployment & Progress Update"
-          icon={<MagicButton title="Phase 2" asChild />}
-          description="Once we agree on the plan, I cue my lofi playlist and dive into coding. From initial sketches to polished code, I keep you updated every step of the way."
+          title="Atualização de Implantação e Progresso"
+          icon={<MagicButton title="Fase 2" asChild />}
+          description="Assim que concordamos com o plano, deixo minha lista de reprodução lofi e mergulho na codificação. Dos esboços iniciais ao código polido, mantenho você atualizado a cada passo do caminho."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -43,8 +43,8 @@ export const Approach = () => {
 
         <Card
           title="Development & Launch"
-          icon={<MagicButton title="Phase 3" asChild />}
-          description="This is where the magic happens! Based on the approved design, I'll translate everything into functional code, building your website from the ground up."
+          icon={<MagicButton title="Fase 3" asChild />}
+          description="É aqui que a mágica acontece! Com base no design aprovado, traduzirei tudo em código funcional, construindo seu site/app/jogo do zero."
         >
           <CanvasRevealEffect
             animationSpeed={3}
