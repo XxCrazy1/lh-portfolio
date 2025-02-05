@@ -125,7 +125,7 @@ export const socialMedia = [
   },
   {
     name: "WhatsApp",
-    img: "/whts.jpeg",
+    img: "/whts.png",
     link: "https://api.whatsapp.com/send?phone=5521996972349&text=Oi%2C%20Leandro!%20",
   },
 ] as const;
