@@ -28,7 +28,7 @@ export const Hero = () => {
       <div className="relative z-10 my-20 flex justify-center">
         <div className="flex max-w-[89vw] flex-col items-center justify-center md:max-w-2xl lg:max-w-[60vw]">
           <h2 className="max-w-80 text-center text-xs uppercase tracking-widest text-blue-100">
-            Dynamic Web Magic with Next.js
+            Dynamic Web Magic com Next.js
           </h2>
 
           <TextGenerateEffect
@@ -37,12 +37,12 @@ export const Hero = () => {
           />
 
           <p className="mb-4 text-center text-sm md:text-lg md:tracking-wider lg:text-2xl">
-            Hi, I&apos;m {links.ownerName}, a Next.js developer based in India.
+            Oi, Eu sou {links.ownerName}, Um desginer visual e programador.
           </p>
 
           <Link href="#about" className="md:mt-10">
             <MagicButton
-              title="Show my work"
+              title="Mostrar meu trabalho"
               icon={<FaLocationArrow />}
               position="right"
               asChild
