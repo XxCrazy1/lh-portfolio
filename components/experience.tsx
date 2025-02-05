@@ -1,5 +1,4 @@
 import Image from "next/image";
-
 import { Button } from "@/components/ui/moving-borders";
 import { workExperience } from "@/data";
 
@@ -7,7 +6,7 @@ export const Experience = () => {
   return (
     <section id="experience" className="py-20">
       <h1 className="heading">
-        Minha <span className="text-purple"></span>experiência de trabalho</span>
+        Minha <span className="text-purple">experiência de trabalho</span>
       </h1>
 
       <div className="mt-12 grid w-full grid-cols-1 gap-10 lg:grid-cols-4">
