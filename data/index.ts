@@ -85,9 +85,9 @@ export const projects = [
 
 export const testimonials = [
   {
-    quote: `Colaborando com ${links.ownerName} foi um prazer absoluto. Seu profissionalismo, prontidão e dedicação em entregar resultados excepcionais ficaram evidentes em todo o nosso projeto. ${links.ownerName}'s O entusiasmo por todas as facetas do designer realmente se destaca. Se você está procurando elevar sua marca, ${links.ownerName} é o parceiro ideal.`,
-    name: "Leandro Hoffman",
-    title: "Director of AlphaStream Technologies",
+    quote: `Colaborando com 'Leandro' foi um prazer absoluto. Seu profissionalismo, prontidão e dedicação em entregar resultados excepcionais ficaram evidentes em todo o nosso projeto. Leandro O entusiasmo por todas as facetas do designer realmente se destaca. Se você está procurando elevar sua marca, Leandro é o parceiro ideal.`,
+    name: "Pastelaria Hoffman's",
+    title: "..................",
   },
 ] as const;
 
@@ -120,13 +120,13 @@ export const workExperience = [
 export const socialMedia = [
   {
     name: "Instagram",
-    img: "/git.svg",
-    link: "https://github.com/sanidhyy",
+    img: "/insta.png",
+    link: "https://www.instagram.com/leh_hoffman/",
   },
   {
     name: "WhatsApp",
-    img: "/twit.svg",
-    link: "https://twitter.com/TechnicalShubam",
+    img: "/whts.jpeg",
+    link: "https://api.whatsapp.com/send?phone=5521996972349&text=Oi%2C%20Leandro!%20",
   },
 ] as const;
 
