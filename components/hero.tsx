@@ -37,7 +37,7 @@ export const Hero = () => {
           />
 
           <p className="mb-4 text-center text-sm md:text-lg md:tracking-wider lg:text-2xl">
-            Oi, Eu sou {links.ownerName}, Um desginer visual e programador.
+            Oi, eu sou {links.ownerName}, um designer visual e programador. Veja meus trabalhos abaixo.
           </p>
 
           <Link href="#about" className="md:mt-10">
