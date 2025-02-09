@@ -17,7 +17,7 @@ export const Approach = () => {
         <Card
           title="Planejamento e Estratégia"
           icon={<MagicButton title="Fase 1" asChild />}
-          description="Colaboraremos para mapear os objetivos, o público-alvo e as principais funcionalidades do seu site, aplicativo ou jogo. Discutiremos elementos como design visual, estrutura do site, navegação, configurações do aplicativo e requisitos de conteúdo."
+          description="Colaboraremos para mapear os objetivos, o público-alvo e as principais funcionalidades do seu negócio, aplicativo ou jogo. Discutiremos elementos como design visual, estrutura, navegação, configurações do aplicativo e requisitos de conteúdo."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -28,7 +28,7 @@ export const Approach = () => {
         <Card
           title="Atualização de Implantação e Progresso"
           icon={<MagicButton title="Fase 2" asChild />}
-          description="Assim que concordamos com o plano, deixo minha lista de reprodução lofi e mergulho na codificação. Dos esboços iniciais ao código polido, mantenho você atualizado a cada passo do caminho."
+          description="Assim que concordamos com o plano, deixo minha lista de reprodução e mergulho na codificação. Dos esboços iniciais ao código polido, mantenho você atualizado a cada passo do caminho."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -42,7 +42,7 @@ export const Approach = () => {
         </Card>
 
         <Card
-          title="Development & Launch"
+          title="Desenvolvimento & Lançamento"
           icon={<MagicButton title="Fase 3" asChild />}
           description="É aqui que a mágica acontece! Com base no design aprovado, traduzirei tudo em código funcional, construindo seu site/app/jogo do zero."
         >
