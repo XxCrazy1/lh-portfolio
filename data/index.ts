@@ -10,8 +10,8 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "Priorizo a colaboração com o cliente, promovendo a comunicação aberta ",
-    description: "",
+    title: "Promovendo Comunicação Aberta",
+    description: "Valorizo a parceria com o cliente, garantindo um fluxo de comunicação claro e constante para resultados excepcionais.",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
@@ -20,8 +20,8 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "Sou muito flexível com comunicações de fuso horário",
-    description: "",
+    title: "Comunicação Facilitada",
+    description: "Adapto-me aos diferentes fusos horários, garantindo uma comunicação contínua e sem barreiras para o sucesso do seu projeto.",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-start",
@@ -30,8 +30,8 @@ export const gridItems = [
   },
   {
     id: 3,
-    title: "Minha pilha de tecnologia",
-    description: "Eu constantemente tento melhorar",
+    title: "Ferramentas Modernas e Eficientes",
+    description: "Utilizo as tecnologias mais recentes e eficazes para desenvolver soluções inovadoras e de alta performance, garantindo o sucesso do seu projeto.",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-center",
@@ -40,8 +40,8 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Entusiasta da tecnologia com paixão pelo desenvolvimento.",
-    description: "",
+    title: "Paixão pelo Desenvolvimento.",
+    description: "Amo explorar novas tecnologias e aplicar meu conhecimento em desenvolvimento para criar soluções inovadoras e impactantes.",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
     titleClassName: "justify-start",
@@ -51,8 +51,8 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Atualmente desenvolvendo aplicativo e jogos.",
-    description: "",
+    title: "Inovação em Cada Projeto",
+    description: "Atualmente, estou focado no desenvolvimento de aplicativos e jogos, trazendo criatividade e inovação para cada projeto que realizo.",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
     titleClassName: "justify-center md:justify-start lg:justify-center",
@@ -104,28 +104,28 @@ export const workExperience = [
   {
     id: 1,
     title: "Frontend Engineer",
-    desc: "Desenvolverei interfaces dinâmicas e interativas com excelência e inovação.",
+    desc: "Desenvolverei interfaces dinâmicas e interativas com excelência e inovação, criando experiências de usuário atraentes e eficientes que destacam a presença digital do seu negócio.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
     title: "Mobile App Dev",
-    desc: "Transformarei suas ideias em aplicativos funcionais e inovadores.",
+    desc: "Transformarei suas ideias em aplicativos funcionais e inovadores, criando soluções personalizadas que atendem às suas necessidades e elevam sua presença no mundo digital.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
     title: "Desginer Gráfico",
-    desc: "Transformarei suas ideias em arte visual com estilo e precisão.",
+    desc: "Transformarei suas ideias em arte visual com estilo e precisão, criando designs únicos e impactantes que destacam o seu negócio..",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
     title: "Estrategista digital",
-    desc: "Conquistarei sua presença online com estratégia e inovação",
+    desc: "Conquistarei sua presença online com estratégia e inovação, ajudando seu negócio a se destacar e crescer no ambiente digital com soluções criativas e eficazes.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp4.svg",
   },
