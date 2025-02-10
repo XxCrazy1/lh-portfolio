@@ -85,13 +85,13 @@ export const projects = [
 
 export const testimonials = [
   {
-    quote: `Colaborando com 'Leandro' foi um prazer absoluto. Seu profissionalismo, prontidão e dedicação em entregar resultados excepcionais ficaram evidentes em todo o nosso projeto. Leandro O entusiasmo por todas as facetas do designer realmente se destaca. Se você está procurando elevar sua marca, Leandro é o parceiro ideal.`,
+    quote: `Trabalhar com Leandro foi uma experiência absolutamente gratificante. Seu profissionalismo, prontidão e dedicação em entregar resultados excepcionais foram evidentes durante todo o nosso projeto. A paixão de Leandro por todas as facetas do design realmente se destaca. Se você está procurando elevar sua marca, Leandro é o parceiro ideal.`,
     name: "Pastelaria Hoffman's",
-    title: "..................",
+    title: "Fundador",
   },
   {
     quote: `Trabalhar com a equipe foi uma experiência incrível. Sua criatividade e atenção aos detalhes fizeram toda a diferença.`,
-    name: "Empresa XYZ",
+    name: "Empresa KS",
     title: "CEO",
   },
 ] as const;
