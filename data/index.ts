@@ -89,6 +89,11 @@ export const testimonials = [
     name: "Pastelaria Hoffman's",
     title: "..................",
   },
+  {
+    quote: `Trabalhar com a equipe foi uma experiência incrível. Sua criatividade e atenção aos detalhes fizeram toda a diferença.`,
+    name: "Empresa XYZ",
+    title: "CEO",
+  },
 ] as const;
 
 export const companies = [
