@@ -104,16 +104,30 @@ export const workExperience = [
   {
     id: 1,
     title: "Frontend Engineer",
-    desc: "Auxiliou no desenvolvimento de uma plataforma baseada na web usando React.js, aprimorando a interatividade.",
+    desc: "Desenvolverei interfaces dinâmicas e interativas com excelência e inovação.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
     title: "Mobile App Dev",
-    desc: "Projetei e desenvolvi um aplicativo móvel para plataformas iOS e Android usando React Native.",
+    desc: "Transformarei suas ideias em aplicativos funcionais e inovadores.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
+  },
+  {
+    id: 3,
+    title: "Desginer Gráfico",
+    desc: "Transformarei suas ideias em arte visual com estilo e precisão.",
+    className: "md:col-span-2", // change to md:col-span-2
+    thumbnail: "/exp3.svg",
+  },
+  {
+    id: 4,
+    title: "Estrategista digital",
+    desc: "Conquistarei sua presença online com estratégia e inovação",
+    className: "md:col-span-2", // change to md:col-span-2
+    thumbnail: "/exp4.svg",
   },
 ] as const;
 
